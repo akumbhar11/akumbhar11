@@ -3,7 +3,7 @@
 
 ## I'm a Developer !
 
-- 🔭 I’m currently working as a fullstack developer at Mediaocean Pune.
+- 🔭 I’m currently working as a fullstack developer at Oracle Pune.
 - 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love to play football and TT and watch Anime, movies and sitcoms
 
